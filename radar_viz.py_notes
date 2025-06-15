@@ -1,0 +1,10 @@
+Description
+The radar chart displays two datasets:
+
+Sales (in green): Represents the performance metrics of the Sales department.
+Marketing (in red): Represents the performance metrics of the Marketing department.
+Each axis corresponds to one of the five categories, with values ranging from 0 to 10. The green and red lines outline the performance profiles, while the semi-transparent fill areas enhance visibility.
+
+Sources
+No external sources were used; the code is based on standard Python and Matplotlib libraries.
+The data is hardcoded for demonstration purposes.
