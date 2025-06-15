@@ -1,0 +1,20 @@
+Description of the Visualization
+
+Left Subplot (Line Chart):
+X-axis: Age (13 to 18)
+Y-axis: Score (0 to 100)
+Lines:
+Leadership score in blue with circular markers
+Emotional intelligence score in orange with circular markers
+A grid and legend are included for clarity.
+
+Right Subplot (Stacked Bar Chart):
+X-axis: Age (13 to 18)
+Y-axis: Percentage (0% to 100%)
+Bars:
+Introvert in purple
+Extrovert in green, stacked on introvert
+Ambivert in yellow, stacked on extrovert
+                              
+Each bar shows the distribution of personality types, summing to 100%, with a legend for identification.
+This colorful chart effectively compares leadership and emotional intelligence scores alongside personality type distributions across the age range, making trends and patterns easy to observe. Run the provided Python code to generate the visualization.
